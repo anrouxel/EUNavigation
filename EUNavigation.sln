@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EUNavigationAuthAPI", "EUNavigationAuthAPI\EUNavigationAuthAPI.csproj", "{0DB85787-A826-4C7D-9E33-75679034F8E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EUNavigationDataAPI", "EUNavigationDataAPI\EUNavigationDataAPI.csproj", "{567628A8-8811-4B7F-A38B-E6CBF47CB062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DB85787-A826-4C7D-9E33-75679034F8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB85787-A826-4C7D-9E33-75679034F8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB85787-A826-4C7D-9E33-75679034F8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB85787-A826-4C7D-9E33-75679034F8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{567628A8-8811-4B7F-A38B-E6CBF47CB062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567628A8-8811-4B7F-A38B-E6CBF47CB062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567628A8-8811-4B7F-A38B-E6CBF47CB062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567628A8-8811-4B7F-A38B-E6CBF47CB062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
